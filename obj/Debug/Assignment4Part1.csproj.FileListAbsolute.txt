@@ -1,0 +1,45 @@
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\Assignment4Part1.exe.config
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\Assignment4Part1.exe
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\Assignment4Part1.pdb
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.csprojResolveAssemblyReference.cache
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\MainWindow.g.cs
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\App.g.cs
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1_MarkupCompile.cache
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1_MarkupCompile.lref
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\MainWindow.baml
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.g.resources
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.Properties.Resources.resources
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.csproj.GenerateResource.Cache
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.exe
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.pdb
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\Books.mdf
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\Books_log.ldf
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\EntityFramework.dll
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\EntityFramework.xml
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1_Content.g.cs
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\Books.mdf
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\Books_log.ldf
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\Assignment4Part1.exe.config
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\Assignment4Part1.exe
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\Assignment4Part1.pdb
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\EntityFramework.dll
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\EntityFramework.xml
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.csprojAssemblyReference.cache
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\MainWindow.g.cs
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\App.g.cs
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1_Content.g.cs
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1_MarkupCompile.cache
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1_MarkupCompile.lref
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\MainWindow.baml
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.g.resources
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.Properties.Resources.resources
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.csproj.GenerateResource.cache
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.csproj.CoreCompileInputs.cache
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.csproj.CopyComplete
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.exe
+D:\Downloads\CECS-475-master\CECS-475-master\Assignment4Part1\Assignment4Part1\obj\Debug\Assignment4Part1.pdb
